@@ -6,10 +6,11 @@ A tool to brute force a gmail account. Use this tool to crack multiple accounts.
 2. git clone https://github.com/Saadkhan041/Gmail-Brute
 3. cd Gmail-Brute
 4. chmod +x *
-5. Enter path of mail list
-6. You can use defaul wordlist (passwords)
-7. Use of defaul proxy is not recommended
-8. Wait...
+5. python3 crack.py
+6. Enter path of mail list
+7. You can use defaul wordlist (passwords)
+8. Use of defaul proxy is not recommended
+9. Wait...
 ! Enjoy !
 
 # Screenshots
