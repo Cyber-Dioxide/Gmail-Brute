@@ -3,7 +3,7 @@ A tool to brute force a gmail account. Use this tool to crack multiple accounts.
 
 # Usage
 1. apt install python3
-2. git clone https://github.com/Saadkhan041/Gmail-Brute
+2. git clone https://github.com/Cyber-Dioxide/Gmail-Brute
 3. cd Gmail-Brute
 4. chmod +x *
 5. python3 crack.py
@@ -20,4 +20,4 @@ A tool to brute force a gmail account. Use this tool to crack multiple accounts.
 ![Screenshot (199)](https://user-images.githubusercontent.com/93708296/149712037-8c6e3e91-76ed-4a7f-8bb2-e55e528e1f6d.png)
 
 # Help
-for any help / support  , iam mostly active on instagram @saadkhan041/@coding_memz
+for any help / support  , iam mostly active on instagram @cyber_dioxide_
