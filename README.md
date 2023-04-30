@@ -25,4 +25,4 @@ A tool to brute force a gmail account. Use this tool to crack multiple accounts.
 ![Screenshot (199)](https://user-images.githubusercontent.com/93708296/149712037-8c6e3e91-76ed-4a7f-8bb2-e55e528e1f6d.png)
 
 # Help
-for any help / support  , iam mostly active on instagram @cyber_dioxide_
+for any help or support  , iam mostly active on instagram @coding_memz
