@@ -1,3 +1,4 @@
-colorama
+colorama~=0.4.6
 PySocks
 socks
+rgbprint~=4.0.2

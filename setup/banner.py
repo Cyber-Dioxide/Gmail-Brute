@@ -1,24 +1,28 @@
 import os
 import platform
 from setup import colors
-from setup.colors import r,g,y,c
+from setup.colors import r, g, y, c
+from rgbprint import gradient_print
 
 logo = f"""
- ██████╗ ███╗   ███╗ █████╗ ██╗██╗        
-██╔════╝ ████╗ ████║██╔══██╗██║██║        
-██║  ███╗██╔████╔██║███████║██║██║        
-██║   ██║██║╚██╔╝██║██╔══██║██║██║        
-╚██████╔╝██║ ╚═╝ ██║██║  ██║██║███████╗   
- ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝╚══════╝   
-                                          
-██████╗ ██████╗ ██╗   ██╗████████╗███████╗
-██╔══██╗██╔══██╗██║   ██║╚══██╔══╝██╔════╝
-██████╔╝██████╔╝██║   ██║   ██║   █████╗  
-██╔══██╗██╔══██╗██║   ██║   ██║   ██╔══╝  
-██████╔╝██║  ██║╚██████╔╝   ██║   ███████╗
-╚═════╝ ╚═╝  ╚═╝ ╚═════╝    ╚═╝   ╚══════╝
-                             {c + "Author: "+y +"Saad Khan"+r+"|"+g +"Cyber-Dioxide"}             
-                                                                                                                   
+                 ██████╗ ███╗   ███╗ █████╗ ██╗██╗        
+                ██╔════╝ ████╗ ████║██╔══██╗██║██║        
+                ██║  ███╗██╔████╔██║███████║██║██║        
+                ██║   ██║██║╚██╔╝██║██╔══██║██║██║        
+                ╚██████╔╝██║ ╚═╝ ██║██║  ██║██║███████╗   
+                 ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝╚══════╝   
+                                                          
+                ██████╗ ██████╗ ██╗   ██╗████████╗███████╗
+                ██╔══██╗██╔══██╗██║   ██║╚══██╔══╝██╔════╝
+                ██████╔╝██████╔╝██║   ██║   ██║   █████╗  
+                ██╔══██╗██╔══██╗██║   ██║   ██║   ██╔══╝  
+                ██████╔╝██║  ██║╚██████╔╝   ██║   ███████╗
+                ╚═════╝ ╚═╝  ╚═╝ ╚═════╝    ╚═╝   ╚══════╝
+                     Author: Saad Khan | Cyber-Dioxide  (V3.0)
+        =========================================================
+                        [+] Telegram @coding_memz             
+                        [+] Instagram @coding_memz
+        =========================================================
 """
 c = colors
 try:
@@ -26,23 +30,10 @@ try:
 except ModuleNotFoundError:
     os.system("pip install colorama")
 
+
 def banner():
-    print(c.ran + logo)
+    gradient_print(logo, start_color='yellow' , end_color='magenta')
 
-    print(c.ran,"\n" + "|"+ Style.BRIGHT + Fore.LIGHTCYAN_EX, "- " * 4, " [+] Follow me on Instagram @cyber_dioxide ", "- " * 4 + c.ran + "|")
-    print(c.ran, "\n" + "|"+ Style.BRIGHT + Fore.LIGHTYELLOW_EX, "- " * 4, " [+] Follow me on Instagram @cyber_dioxide_ ", "- " * 4+c.ran + "|")
-    print(c.ran , "\n"+ "|"+ Style.BRIGHT + Fore.LIGHTRED_EX, "- " * 4, "[+] Github: https://github.com/Cyber-Dioxide/ ", "- " * 3+c.ran + "|\n")
-
-def banner2():
-    print(c.ran + '-'*63)
-    print("|" + "*"* 60 + c.ran + "|")
-
-    print(c.ran,"\n" + "|"+ Style.BRIGHT + Fore.LIGHTCYAN_EX, "- " * 4, " [+] Follow me on Instagram @saadkhan041 ", "- " * 4 + c.ran + "|")
-    print(c.ran, "\n" + "|"+ Style.BRIGHT + Fore.LIGHTYELLOW_EX, "- " * 4, " [+] Follow me on Instagram @coding_memz ", "- " * 4+c.ran + "|")
-    print(c.ran , "\n"+ "|"+ Style.BRIGHT + Fore.LIGHTRED_EX, "- " * 4, "[+] Github: https://github.com/Saadkhan041/ ", "- " * 3+c.ran + "|")
-    print(c.ran + "\n"+ "|" + "*" * 60+c.ran + "|")
-
-    print(c.ran + '-' * 63)
 
 def clear():
     s = platform.platform()
