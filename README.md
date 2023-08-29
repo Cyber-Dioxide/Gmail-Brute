@@ -4,7 +4,6 @@ A tool to brute force a gmail account. Use this tool to crack multiple accounts.
 
 
 # Telegram
-* Join Our Telgram hacking channel https://t.me/cyber_diox
 * Contact me on telegram @coding_memz
 
 # New Release
