@@ -2,7 +2,8 @@
 A tool to brute force a gmail account. Use this tool to crack multiple accounts. This tool is developed to crack multiple accounts
 ![Screenshot 2023-07-17 085950](https://github.com/Cyber-Dioxide/Gmail-Brute/assets/93708296/5ec24a5b-0b58-4fef-92f4-1d8ec32b94e2)
 
-
+# Tutorial
+Check tutorial on our blog page [Cyber Dioxide](https://www.cyberdioxide.com/2023/11/gmail-bruteforce-how-to-perform-and-how.html)
 # Telegram
 * Join Telegram Channel https://t.me/cyber_dioxid
 * Contact me on telegram @coding_memz
