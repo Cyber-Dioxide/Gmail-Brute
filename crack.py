@@ -1,9 +1,9 @@
 import smtplib
 import os
 import socket
-from setup.banner import banner, clear
-from setup.colors import r, c, g, y, ran
-from setup.sprint import sprint
+from core.banner import banner, clear
+from core.colors import r, c, g, y, ran
+from core.sprint import sprint
 
 try:
     import socks
