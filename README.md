@@ -1,7 +1,10 @@
 # Gmail-Brute
 A tool to brute force a gmail account. Use this tool to crack multiple accounts. This tool is developed to crack multiple accounts
-![Screenshot 2023-07-17 085950](https://github.com/Cyber-Dioxide/Gmail-Brute/assets/93708296/5ec24a5b-0b58-4fef-92f4-1d8ec32b94e2)
+![image](https://github.com/Cyber-Dioxide/Gmail-Brute/assets/93708296/ec6bc837-198d-4ef7-82df-9934d05ca463)
 
+# Note
+People texting me that the tool is not detecting password even if we add correct password. The issue was arrising because of low quality of proxies being used. This issue can be solved easily with HQ checked proxies. 
+For now i have coded a new version in which proxy support has been removed. For usage use newcracker.py
 # Tutorial
 Check tutorial on our blog page [Cyber Dioxide](https://www.cyberdioxide.com/2023/11/gmail-bruteforce-how-to-perform-and-how.html)
 # Telegram
