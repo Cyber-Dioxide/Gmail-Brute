@@ -9,7 +9,7 @@ For now i have coded a new version in which proxy support has been removed. For 
 Check tutorial on our blog page [Cyber Dioxide](https://www.cyberdioxide.com/2023/11/gmail-bruteforce-how-to-perform-and-how.html)
 # Telegram
 * Join Telegram Channel https://t.me/cyber_dioxid
-* Contact me on telegram @coding_memz
+* Contact me on telegram @cyberoxide
 
 # New Release
 This tool is no longer updated, i've made its more elite version that can crack all email accounts.
