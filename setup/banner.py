@@ -20,7 +20,7 @@ logo = f"""
                 ╚═════╝ ╚═╝  ╚═╝ ╚═════╝    ╚═╝   ╚══════╝
                      Author: Saad Khan | Cyber-Dioxide  (V3.0)
         =========================================================
-                        [+] Telegram @coding_memz             
+                        [+] Telegram @cyberoxide             
                         [+] Instagram @coding_memz
         =========================================================
 """
