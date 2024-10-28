@@ -6,7 +6,7 @@ A tool to brute force a gmail account. Use this tool to crack multiple accounts.
 People texting me that the tool is not detecting password even if we add correct password. The issue was arrising because of low quality of proxies being used. This issue can be solved easily with HQ checked proxies. 
 For now i have coded a new version in which proxy support has been removed. For usage use newcracker.py
 # Tutorial
-Check tutorial on our blog page [Cyber Dioxide](https://www.cyberdioxide.com/2023/11/gmail-bruteforce-how-to-perform-and-how.html)
+Check tutorial on our blog page [Cyber Dioxide](https://www.cyox2.com/2023/11/gmail-bruteforce-how-to-perform-and-how.html)
 # Telegram
 * Join Telegram Channel https://t.me/cyber_dioxid
 * Contact me on [Telegram](https://www.cyberdioxide.com/p/contact.html)
