@@ -8,7 +8,7 @@ For now i have coded a new version in which proxy support has been removed. For 
 # Tutorial
 Check tutorial on our blog page [Cyber Dioxide](https://www.cyox2.com/2023/11/gmail-bruteforce-how-to-perform-and-how.html)
 # Telegram
-* Join Telegram Channel https://t.me/cyber_dioxid
+* Join Telegram Channel https://t.me/+rJsw9yTcuGRhYWYx
 * Contact me on [Telegram](https://www.cyberdioxide.com/p/contact.html)
 
 # New Release
