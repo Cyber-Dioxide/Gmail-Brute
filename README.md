@@ -16,7 +16,7 @@ This tool is no longer updated, i've made its more elite version that can crack 
 ![Screenshot 2023-07-12 094955](https://github.com/Cyber-Dioxide/Gmail-Brute/assets/93708296/af81e35b-1b15-4da9-a319-e1ac27c80d28)
 
 * This tool is paid with one year of license access.
-* If you are intrested to but, dm me on telegram https:///t.me/coding_memz
+* If you are intrested to but, dm me on telegram https://t.me/cyox2
 # Service
 * If you want me to bruteforce a gmail account with worlds top used passwords, dm me on instagram @coding_memz
 * To get your own custom hacking tool, dm me on instagram @coding_memz
