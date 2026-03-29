@@ -1,0 +1,20 @@
+{
+    "email_file": "data/emails.txt",
+    "password_file": "data/passwords.txt",
+    "output_dir": "results",
+    "smtp_host": "smtp.gmail.com",
+    "smtp_port": 587,
+    "smtp_security": "starttls",
+    "smtp_timeout": 30,
+    "proxy_type": "none",
+    "max_workers": 10,
+    "max_async_tasks": 50,
+    "rate_limit": 0,
+    "retry_count": 3,
+    "retry_delay": 1.0,
+    "output_format": "txt",
+    "verbose": false,
+    "log_level": "info",
+    "save_tried": true,
+    "resume": true
+}
