@@ -268,7 +268,7 @@ A comprehensive **PDF User Guide** is included:
 
 ### ⭐ If this tool helped you, please consider supporting development!
 
-[![Donate](https://img.shields.io/badge/💰_Donate-$20-support_development-success?style=for-the-badge&logo=heart&logoColor=white)](https://hiderox.com/payment.html?amt=20)
+[![Donate $20](https://img.shields.io/badge/Donate-$20-ff69b4?style=for-the-badge)](https://hiderox.com/payment.html?amt=20)
 
 **Your support keeps this project alive and updated!**
 
